@@ -127,16 +127,6 @@ Instagram-Fake-Profile-Detection-System/
 
 ---
 
-## 👥 Team Members
-- Aakriti Arora  
-- Akanksha Sinha  
-- Manas Arora  
-- Harshit Pandey  
-- Aakriti Jha  
-- **Ritik Raushan**
-
----
-
 ## 👨‍💻 Author
 **Ritik Raushan**  
 Department of Information Technology  
