@@ -104,20 +104,6 @@ The trained model was deployed using **Streamlit**, allowing users to:
 
 ---
 
-## 📂 Project Structure
-
-Instagram-Fake-Profile-Detection-System/
-│── data/
-│── notebooks/
-│── models/
-│── app/
-│── reports/
-│── requirements.txt
-│── README.md
-
-
----
-
 ## 🔮 Future Enhancements
 - Deep learning models (CNN, LSTM, BERT, GNN)  
 - Real-time profile monitoring  
